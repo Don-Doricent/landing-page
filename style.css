@@ -1,0 +1,20 @@
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+section {
+    background-color: #1f2937;
+}
+
+section span {
+    font-size: 18px;
+    color: #e5e7eb;
+}
