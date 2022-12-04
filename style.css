@@ -1,16 +1,17 @@
-.links {
-    display: flex;
-    flex-direction: row;
-
+.section1 {
+    background-color: #1f2937;
 }
-
 section h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
 }
 
-.section1 {
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: fixed;
     background-color: #1f2937;
 }
 
